@@ -1,0 +1,3 @@
+reproducing-base-results/smnist-no-coreset-1000-epochs
+mnist-data
+lr-schedule/smnist-decay-0.0
