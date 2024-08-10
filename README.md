@@ -1,7 +1,7 @@
 # UDL-mini-project-2024
 
-Welcome to the (anonymized) git repository for my UDL mini project! Using this codebase, I did the following three things:
-1. I implemented the VCL paper from scratch in PyTorch.
+Welcome to the git repository for my UDL mini project! In this repository, I did the following three things:
+1. I implemented the [VCL paper](https://arxiv.org/abs/1710.10628) from scratch in PyTorch.
 2. I reproduced the Split MNIST experiment and compared the results when using an *Interleaved Training/Evaluation Scheme (ITES)* versus a *Sequential Training/Evaluation Scheme (STES)*.
 3. I investigated the effects of applying LR decay to the shared weights of the multi-head neural network.
 
